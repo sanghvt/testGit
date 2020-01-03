@@ -1,1 +1,2 @@
 Den con khi con viet dung git
+pull : lay noi dung tu remote repository
